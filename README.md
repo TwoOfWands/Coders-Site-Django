@@ -1,5 +1,4 @@
 # Coders-Site-Django
-# Coders Site — Django LMS
 
 <p align="center">
   A modern Learning Management System built with Django.
